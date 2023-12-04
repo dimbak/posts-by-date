@@ -1,11 +1,11 @@
 # posts-by-date
 
 
-A WP plugin for sorting posts by category and date]<br/>
-Contributors: dimitrisbakalidis]<br/>
-Tags: shortcode, posts]<br/>
-Requires at least: 6.0.2]<br/>
-Tested up to: 6.0.2]<br/>
+A WP plugin for sorting posts by category and date<br/>
+Contributors: dimitrisbakalidis<br/>
+Tags: shortcode, posts<br/>
+Requires at least: 6.0.2<br/>
+Tested up to: 6.0.2<br/>
 
 Posts-by-date plugin allows you to display posts in your posts and pages per category and date using a shortcode.
 
